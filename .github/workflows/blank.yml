@@ -33,3 +33,4 @@ jobs:
       - name: git cli version
         run: |
           git --version
+          gh --version
